@@ -1,0 +1,1 @@
+print("Trip Generation Script Starting...")
