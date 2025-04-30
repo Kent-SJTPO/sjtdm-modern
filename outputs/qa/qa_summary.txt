@@ -1,0 +1,51 @@
+Total TAZs analyzed: 3
+
+--- HBWP ---
+Min: 550.00
+Max: 1,100.00
+Mean: 843.33
+Sum: 2,530.00
+
+--- HBWA ---
+Min: 240.00
+Max: 960.00
+Mean: 533.33
+Sum: 1,600.00
+
+--- HBSP ---
+Min: 700.00
+Max: 1,400.00
+Mean: 1,073.33
+Sum: 3,220.00
+
+--- HBSA ---
+Min: 180.00
+Max: 720.00
+Mean: 400.00
+Sum: 1,200.00
+
+--- HBOP ---
+Min: 900.00
+Max: 1,800.00
+Mean: 1,380.00
+Sum: 4,140.00
+
+--- HBOA ---
+Min: 210.00
+Max: 840.00
+Mean: 466.67
+Sum: 1,400.00
+
+--- RECP ---
+Min: 15.00
+Max: 60.00
+Mean: 37.50
+Sum: 112.50
+
+--- RECA ---
+Min: 20.00
+Max: 80.00
+Mean: 50.00
+Sum: 150.00
+
+✅ No TAZs with suspiciously high total trips.
