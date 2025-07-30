@@ -1,0 +1,82 @@
+# ========================
+# Python & Conda
+# ========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+*.conda
+*.log
+*.bak
+
+# Environment
+.env
+*.env
+.venv/
+*.lock
+
+# Conda environments
+environment.yml
+
+# ========================
+# Jupyter & VS Code
+# ========================
+.ipynb_checkpoints/
+.vscode/
+*.code-workspace
+
+# ========================
+# GIS / Geospatial
+# ========================
+# ESRI Shapefiles
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.sbn
+*.sbx
+*.qpj
+*.shp.xml
+*.shp.*
+
+# Geodatabases
+*.gdb/
+*.mdb
+*.gdbtable
+*.gdbtablx
+*.gdbindexes
+*.gdb*.xml
+
+# Raster
+*.tif
+*.tiff
+*.img
+*.aux.xml
+*.ovr
+
+# Pro metadata files
+*.lock.xml
+*.lock
+
+# ========================
+# Project Folders (Local only)
+# ========================
+outputs/
+Output/
+Input/
+inputs/          # only if you want to avoid pushing any input data
+ArcInfo/
+Maps/
+Documentation/
+
+# If using Microsoft 365 auto-generated files
+~$*.xls*
+~$*.doc*
+~$*.ppt*
+
+# Misc
+.DS_Store
+Thumbs.db
