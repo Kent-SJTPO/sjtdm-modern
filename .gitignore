@@ -80,3 +80,20 @@ Documentation/
 # Misc
 .DS_Store
 Thumbs.db
+# ========================
+# Runtime cache / API responses
+# ========================
+cache/
+*.json
+
+# ========================
+# Analysis outputs
+# ========================
+*.csv
+*.html
+
+# ========================
+# Scratch / one-off scripts
+# ========================
+test.py
+blah.py
